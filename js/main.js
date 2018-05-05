@@ -1,7 +1,7 @@
 import Enemy from './npc/enemy.js'
 import Hero from './hero/hero.js'
 import config from './config/config.js'
-import GameInfo from './gameinfo.js/gameinfo.js'
+import GameInfo from './gameinfo/gameinfo.js'
 import Music from './music/music.js'
 
 var ctx = canvas.getContext('2d')
